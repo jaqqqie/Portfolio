@@ -1,0 +1,28 @@
+html,
+body,
+header,
+.view {
+  height: 100%;
+}
+body{
+
+}
+.intro{
+  height: 100%;
+  background-image: url("../Pictures/pinksky.jpg");
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-size: cover;
+}
+.header-intro{
+  padding-top: 200px;
+  padding-right: 300px;
+}
+#name-header{
+  text-shadow: 1px 1px #000;
+  letter-spacing: 4px;
+}
+#sibName-header{
+  text-shadow: 1px 1px #000;
+  letter-spacing: 3px;
+}
