@@ -26,3 +26,9 @@ body{
   text-shadow: 1px 1px #000;
   letter-spacing: 3px;
 }
+#about-background{
+  background-image: linear-gradient(to bottom right, #ffeee6, #ff9966);
+}
+#about-image{
+  height: 30%;
+}
