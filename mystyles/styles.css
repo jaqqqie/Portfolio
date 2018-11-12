@@ -1,11 +1,7 @@
-html,
-body,
-header,
-.view {
-  height: 100%;
-}
-body{
 
+html, body{
+  height: 100%;
+  width: 100%;
 }
 .intro{
   height: 100%;
@@ -18,17 +14,61 @@ body{
   padding-top: 200px;
   padding-right: 300px;
 }
+.skills{
+  background-color: #353535;
+}
+.fa-java, .fa-python, .fa-android, .fa-css3, .fa-html5, .fa-js {
+  font-size: 36px;
+  color: white;
+}
+.fa-java{
+  color: #00ace6;
+}
+.fa-python{
+  color: #ff9933;
+}
+.fa-android{
+  color: #00e600;
+}
+.fa-css3{
+  color: #0099ff;
+}
+.fa-html5{
+  color: #ff8533;
+}
+.fa-js{
+  color: #e6e600;
+}
 #name-header{
   text-shadow: 1px 1px #000;
   letter-spacing: 4px;
 }
-#sibName-header{
+#subName-header{
   text-shadow: 1px 1px #000;
   letter-spacing: 3px;
 }
 #about-background{
   background-image: linear-gradient(to bottom right, #ffeee6, #ff9966);
+  height: 80%;
 }
 #about-image{
-  height: 30%;
+  height: 450px;
+}
+#progress-icons{
+  height: 46px;
+}
+#java-and-bar{
+  background-color: #00b3b3;
+}
+#python-bar{
+  background-color: #9966ff;
+}
+#c-bar{
+  background-color: #ff6666;
+}
+#js-bar{
+  background-color: #00e673;
+}
+#html-css-bar{
+  background-color: #ffff33;
 }

@@ -1,0 +1,11 @@
+=====THINGS TO DO======
+Add about me under initial background
+  -> Change font
+  -> Maybe get pic to cut out beer
+-> Add links to linkedin and github and resume under name
+-> Maybe add 'loading bar' to show most experienced in
+  -> Check example in docs for this
+-> Add contact information
+  -> Add so that when linked is clicked it brings up box
+      that allows for ease of email
+-> Maybe add navbar to different pages
