@@ -19,6 +19,13 @@ html, body{
 .github:hover, .linkedin:hover, .resume:hover{
   color: #ff9999;
 }
+.contact-github .fa-github, .contact-linkedin .fa-linkedin-in, .contact-resume .fa-file-alt{
+  color: white;
+  font-size: 40px;
+}
+.contact-github .fa-github:hover, .contact-linkedin .fa-linkedin-in:hover, .contact-resume .fa-file-alt:hover{
+  color: yellow;
+}
 .fa-github, .fa-linkedin-in{
   font-size: 24px;
   margin: 10px;
