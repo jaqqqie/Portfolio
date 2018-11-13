@@ -1,6 +1,21 @@
 html, body{
   height: 100%;
   width: 100%;
+  scroll-behavior: smooth;
+}
+.nav-background{
+  background-color: #000;
+  color: #fff;
+  opacity: 0.75;
+  font-size: 20px;
+}
+.nav-background a:hover{
+  text-decoration: none;
+  color: #66e0ff;
+}
+.nav-link{
+  padding: 8px;
+  color: white;
 }
 .intro{
   height: 100%;

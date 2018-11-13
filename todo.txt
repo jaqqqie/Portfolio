@@ -7,3 +7,5 @@ Add about me under initial background
 -> Add social links to contact section
 -> Maybe add navbar to different pages
 -> Add signature to bottom of intro page
+-> Add scroll functionality so that it works on all browsers
+-> FIX THE RESPONSIVENESS!!!!!!!!!!!!!!
