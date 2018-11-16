@@ -28,6 +28,12 @@ html, body{
   padding-top: 200px;
   padding-right: 300px;
 }
+.about-me{
+  background-image: linear-gradient(to bottom right, #ffeee6, #ff9966);
+}
+.links-intro{
+  padding-right: 300px;
+}
 .github, .linkedin, .resume{
   color: #fff;
 }
@@ -49,7 +55,6 @@ html, body{
    font-size: 22px;
    margin: 10px;
  }
-
 .skills{
   background-color: #353535;
 }
@@ -104,10 +109,6 @@ html, body{
 #subName-header{
   text-shadow: 1px 1px #000;
   letter-spacing: 3px;
-}
-#about-background{
-  background-image: linear-gradient(to bottom right, #ffeee6, #ff9966);
-  height: 80%;
 }
 #about-image{
   height: 450px;
