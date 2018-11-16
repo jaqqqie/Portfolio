@@ -31,6 +31,9 @@ html, body{
 .about-me{
   background-image: linear-gradient(to bottom right, #ffeee6, #ff9966);
 }
+.about-paragraphs{
+    padding-right: 20px;
+}
 .links-intro{
   padding-right: 300px;
 }
